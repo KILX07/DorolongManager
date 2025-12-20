@@ -3,8 +3,8 @@
 **Dorolong Manager**는 명조(Wuthering Waves), 젠레스 존 제로(ZZZ), 원신 등 **XXMI,3DMigoto 기반의 모드**를 사용하는 게임을 위해 제작된 간단한 모드 관리 도구입니다.
 
 
-![Preview Image](<img width="1362" height="749" alt="image" src="https://github.com/user-attachments/assets/e69779ea-20a5-42a3-96f9-e153b975e4fc" />
-)
+![Preview Image](https://ifh.cc/v-3bfHD7)
+
 
 ## ✨ 주요 기능 (Key Features)
 
